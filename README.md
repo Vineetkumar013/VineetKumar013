@@ -1,8 +1,7 @@
 ### Hi Developers 👋
 <a href="https://vineetkumar013.github.io/" target="text-decoration:none"><img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vineet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vineet-rajput-0706b7263/](https://www.linkedin.com/in/vineet-rajput-0706b7263/)
-
+[![Linkedin Badge](https://img.shields.io/badge/-Vineet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vineet-rajput-0706b7263/)](https://www.linkedin.com/in/vineet-rajput-0706b7263/)
 
 
 
@@ -16,7 +15,7 @@ The crossover between design and programming has always been of interest to me, 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vineetkmar013&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=manoharmeena123&column=7"/>
   </a>
 </div>
 
